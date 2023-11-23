@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 3px;
+}
+.zaglavlje{
+    position: absolute;
+    width: 98%;
+    height: 15%;
+    background-color: brown;
+}
+.navigacija{
+    position: absolute;
+    width: 20%;
+    height: 85%;
+    background-color:#ab1420;
+    top: 20%;
+}
+.Tijelo{
+    position: absolute;
+    width: 75%;
+    height: 60%;
+    left: 23%;
+    top: 20%;
+    background-color: #ab1420;
+}
+.podnozje{
+    position: absolute;
+    width: 75%;
+    height: 15%;
+    top: 85%;
+    left: 23%;
+    background-color: #ab1420;
+}
+body{
+    overflow: hidden;
+    background-color: azure;
+}
+div{
+    border-radius: 5px;
+    border: 4px solid;
+    text-align: center;
+    align-items: center;
+    padding: 2px;
+}
+img{
+    width: 99%;
+    height: 99%;
+}
+ol{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+    font-style: bold;
+    color:azure;
+}
+ul{
+    padding: 8px;
+}
+a:visited{
+    color:azure;
+}
+a:link{
+    color:azure;
+}
+h1{
+    position: absolute;
+    top: 30%;
+    left:20%;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+    font-style: bold;
+    color:azure;
+}
